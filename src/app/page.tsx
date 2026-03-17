@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <main>
+    <div>
       <h1>Fill In The Gap</h1>
-      <p>The website is working.</p>
-    </main>
-  )
+      <p>Working now</p>
+    </div>
+  );
 }
